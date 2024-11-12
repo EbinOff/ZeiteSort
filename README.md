@@ -9,7 +9,7 @@ Zeite Sort is an efficient sorting algorithm that improves on traditional quicks
 3. Run the program.
 
 ## License
-This project is licensed under the Custom License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Custom License. See the [LICENSE.md](LICENSE) file for more details.
 
 ## Contact
 - Author: Dinto G
