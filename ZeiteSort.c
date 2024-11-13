@@ -37,7 +37,7 @@ int medianOfThree(int arr[], int start, int end) {
     return arr[end - 1]; // Return the pivot value
 }
 
-void ZeiteSort(int arr[], int start, int end, int maxDepth) { //maxDepth = 2*(int)log2(n) is best to use for optimal in varied range of datasets
+void ZeiteSort(int arr[], int start, int end, int maxDepth) { 
     if (start >= end) return;
 
     // Use insertion sort for small segments
